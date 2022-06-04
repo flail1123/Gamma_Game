@@ -1,5 +1,5 @@
 # IPP
-To use:
+How to run:
 ```
 git clone git clone https://github.com/flail1123/Gamma_Game.git
 cd Gamma_Game
